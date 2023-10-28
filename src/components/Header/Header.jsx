@@ -1,9 +1,7 @@
 
 const Header = () => {
     return (
-        <div className="text-center font-bold">
-            Course Registration
-        </div>
+        <h1 className="text-[#1C1B1B] font-extrabold text-3xl text-center mt-10 p-2">Course Registration</h1>
     );
 };
 
