@@ -58,7 +58,7 @@
     {
         "id": 8,
         "image": "https://i.ibb.co/vsszqK1/Rectangle-2-5.png",
-        "course_title": "Swift Mobile App Development",
+        "course_title": "Mobile App Development",
         "course_description": "Create mobile apps with Swift for iOS and macOS. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 49.99,
         "credit": 4
@@ -67,7 +67,7 @@
         "id": 9,
         "image": "https://i.ibb.co/D4qR29n/Rectangle-2-1.png",
         "course_title": "SQL Database Management",
-        "course_description": "Manage and optimize databases with SQL. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
+        "course_description": "Manage and optimize databases with SQL. BASIC is a family of general-purpose, high-level programming languages designed for ease of use databases with SQL.",
         "price": 59.99,
         "credit": 3
     }
