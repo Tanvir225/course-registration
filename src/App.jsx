@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <section className='container mx-auto'>
+    <section className='max-xl: mx-auto'>
       <Header></Header>
       <Courses></Courses>
     </section>

@@ -3,15 +3,15 @@
         "id": 1,
         "image": "https://i.ibb.co/61TpMcY/Rectangle-2.png",
         "course_title": "Python Programming",
-        "course_description": "This course covers Python programming from basics to advanced concepts.",
+        "course_description": "This course covers Python programming from basics to advanced concepts. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 49.99,
         "credit": 8
     },
     {
         "id": 2,
-        "image": "https://example.com/image2.jpg",
+        "image": "https://i.ibb.co/vsszqK1/Rectangle-2-5.png",
         "course_title": "JavaScript Fundamentals",
-        "course_description": "Learn the fundamentals of JavaScript, including syntax and usage.",
+        "course_description": "Learn the fundamentals of JavaScript, including syntax and usage. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 29.99,
         "credit": 7
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "image": "https://i.ibb.co/GdLwrPX/Rectangle-3.png",
         "course_title": "Java Programming Mastery",
-        "course_description": "Master Java programming with in-depth examples and projects.",
+        "course_description": "Master Java programming with in-depth examples and projects. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 79.99,
         "credit": 6
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "image": "https://i.ibb.co/pfWXJnF/Rectangle-2-4.png",
         "course_title": "C++ for Beginners",
-        "course_description": "An introductory course on C++ programming for beginners.",
+        "course_description": "An introductory course on C++ programming for beginners. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 59.99,
         "credit": 9
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "image": "https://i.ibb.co/crXm0W6/Rectangle-2-3.png",
         "course_title": "Ruby Programming Essentials",
-        "course_description": "Essential concepts and skills for Ruby programming.",
+        "course_description": "Essential concepts and skills for Ruby programming. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 39.99,
         "credit": 5
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "image": "https://i.ibb.co/M2Mg4Rn/Rectangle-3-1.png",
         "course_title": "PHP Web Development",
-        "course_description": "Learn web development with PHP and build dynamic websites.",
+        "course_description": "Learn web development with PHP and build dynamic websites. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 69.99,
         "credit": 8
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "image": "https://i.ibb.co/SQrFTHM/Rectangle-2-2.png",
         "course_title": "C# Programming in Action",
-        "course_description": "Hands-on examples and projects for C# programming.",
+        "course_description": "Hands-on examples and projects for C# programming. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 89.99,
         "credit": 7
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "image": "https://i.ibb.co/vsszqK1/Rectangle-2-5.png",
         "course_title": "Swift Mobile App Development",
-        "course_description": "Create mobile apps with Swift for iOS and macOS.",
+        "course_description": "Create mobile apps with Swift for iOS and macOS. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 49.99,
         "credit": 4
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "image": "https://i.ibb.co/D4qR29n/Rectangle-2-1.png",
         "course_title": "SQL Database Management",
-        "course_description": "Manage and optimize databases with SQL.",
+        "course_description": "Manage and optimize databases with SQL. BASIC is a family of general-purpose, high-level programming languages designed for ease of use.",
         "price": 59.99,
         "credit": 3
     }
