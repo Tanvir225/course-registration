@@ -11,7 +11,7 @@ const Credit_Cart = ({ courseCredit,totalPrice }) => {
 
 Credit_Cart.propTypes = {
     courseCredit: PropTypes.number.isRequired,
-    totalPrice: PropTypes.number.isRequired
+    totalPrice: PropTypes.string.isRequired
 }
 
 export default Credit_Cart;

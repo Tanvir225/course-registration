@@ -1,26 +1,12 @@
 import PropTypes from 'prop-types';
-import { useState } from 'react';
+
 
 import { FaDollarSign, FaBookOpen } from 'react-icons/fa';
-const Course = ({ course, coursesTitleHandler, courseCredit }) => {
+const Course = ({ course, coursesTitleHandler }) => {
 
     const { image, course_title, course_description, price, credit } = course || {}
 
-    //toggle eventhandler
-    const [select, setSelect] = useState(true)
     
-    const toggle = () => {
-
-        if (courseCredit < 20) {
-            setSelect(!select)
-        }
-        else if (courseCredit === 20) {
-            setSelect(select)
-        }
-        else{
-            setSelect(!select)
-        }
-    }
 
     return (
         <div className='bg-[#FFF] p-4 space-y-5  rounded-lg'>
@@ -36,7 +22,7 @@ const Course = ({ course, coursesTitleHandler, courseCredit }) => {
 
 
 
-            <button onClick={() => { coursesTitleHandler(course); toggle() }} className='bg-[#2F80ED] text-white w-full rounded-lg p-2 hover:bg-black ' >{select ? "Select" : "Remove"}</button>
+            <button onClick={() => { coursesTitleHandler(course)}} className='bg-[#2F80ED] text-white w-full rounded-lg p-2 hover:bg-black ' >Select</button>
 
 
 
@@ -48,8 +34,9 @@ Course.propTypes = {
     course: PropTypes.object.isRequired,
     coursesTitleHandler: PropTypes.func.isRequired,
     //toggle:PropTypes.func.isRequired,
-    select: PropTypes.bool.isRequired,
-    courseCredit: PropTypes.number.isRequired
+    //select: PropTypes.bool.isRequired,
+    
+  
 }
 
 export default Course;
